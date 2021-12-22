@@ -24,6 +24,7 @@
   },
   "devDependencies": {
     "cordova": ">=5.4.1",
+    "cordova-lib": "^9.0.0",
     "elementtree": "^0.1.6",
     "ios-sim": ">=5.0.5",
     "jasmine": "^2.3.2",
